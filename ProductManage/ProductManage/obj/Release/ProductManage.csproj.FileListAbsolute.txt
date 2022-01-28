@@ -1,0 +1,10 @@
+D:\Projects\c#\ProductManage\ProductManage\bin\Release\ProductManage.exe.config
+D:\Projects\c#\ProductManage\ProductManage\bin\Release\ProductManage.exe
+D:\Projects\c#\ProductManage\ProductManage\bin\Release\ProductManage.pdb
+D:\Projects\c#\ProductManage\ProductManage\obj\Release\ProductManage.Form1.resources
+D:\Projects\c#\ProductManage\ProductManage\obj\Release\ProductManage.Properties.Resources.resources
+D:\Projects\c#\ProductManage\ProductManage\obj\Release\ProductManage.csproj.GenerateResource.cache
+D:\Projects\c#\ProductManage\ProductManage\obj\Release\ProductManage.csproj.CoreCompileInputs.cache
+D:\Projects\c#\ProductManage\ProductManage\obj\Release\ProductManage.exe
+D:\Projects\c#\ProductManage\ProductManage\obj\Release\ProductManage.pdb
+D:\Projects\c#\ProductManage\ProductManage\obj\Release\ProductManage.csproj.AssemblyReference.cache
